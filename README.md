@@ -1,5 +1,5 @@
 # StreamSidekickApi
-API for StreamSidekick movie database.
+API for [Stream Sidekick](http://.streamsidekick.com) movie database.
 
 ## Setup
 
